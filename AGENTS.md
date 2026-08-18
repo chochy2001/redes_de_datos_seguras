@@ -2,7 +2,7 @@
 
 Texto en español de México (UNAM, Facultad de Ingeniería). Siempre con acentos y ñ: práctica, sesión, configuración, presentación, diseño, análisis, básica, carátula, número, día, cómputo, teoría, guía, código, también, ingeniería, máximo, reposición, más, cómo, qué.
 
-No usar raya larga ni semirraya. En títulos no usar "palabra - palabra". Rangos en palabras: 17 al 21 ago, 11:00 a 13:00, pp. 3 a 11.
+No usar raya larga ni semirraya. En títulos no separar con guion. Rangos en palabras: 17 al 21 ago, 11:00 a 13:00, pp. 3 a 11.
 
 No tocar (no son estilo):
 - nombres de carpeta y archivo (`practicas/`, `00-presentacion`, `Caratula.docx`)
