@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 1: Normatividad
+# Desarrollo - Complementaria 1: Normatividad
 
 Fecha:  
 Equipo de cómputo:  

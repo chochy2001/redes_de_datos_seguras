@@ -1,4 +1,4 @@
-# Desarrollo — Práctica 1: Construcción de cables UTP para conexión directa y cruzada
+# Desarrollo - Práctica 1: Construcción de cables UTP para conexión directa y cruzada
 
 Fecha:  
 Equipo de cómputo:  

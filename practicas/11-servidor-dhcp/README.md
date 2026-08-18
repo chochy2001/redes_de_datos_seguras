@@ -1,8 +1,8 @@
-# Práctica 11 — Servidor DHCP
+# Práctica 11 - Servidor DHCP
 
-**Laboratorio** · Capa 7 OSI · Semana 12–13 (2–13 nov 2026)
+**Laboratorio** · Capa 7 OSI · Semana 12-13 (2-13 nov 2026)
 
-Manual MADO-31 pp. 173–197: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
+Manual MADO-31 pp. 173-197: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
 ## Estado
 

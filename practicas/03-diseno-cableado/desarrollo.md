@@ -1,4 +1,4 @@
-# Desarrollo — Práctica 3: Diseño / identificación de un sistema de cableado estructurado
+# Desarrollo - Práctica 3: Diseño / identificación de un sistema de cableado estructurado
 
 Fecha:  
 Equipo de cómputo:  

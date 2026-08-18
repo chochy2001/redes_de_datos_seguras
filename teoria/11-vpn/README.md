@@ -1,6 +1,6 @@
-# Complementaria 11 — VPN
+# Complementaria 11 - VPN
 
-**Teoría (obligatoria)** · Capa 6 · Manual MADO-31 pp. 394–408
+**Teoría (obligatoria)** · Capa 6 · Manual MADO-31 pp. 394-408
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

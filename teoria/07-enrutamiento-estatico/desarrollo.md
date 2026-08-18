@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 7: Enrutamiento estático
+# Desarrollo - Complementaria 7: Enrutamiento estático
 
 Fecha:  
 Equipo de cómputo:  

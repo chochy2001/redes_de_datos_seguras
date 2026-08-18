@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 14: Web, DNS e IP Helper
+# Desarrollo - Complementaria 14: Web, DNS e IP Helper
 
 Fecha:  
 Equipo de cómputo:  

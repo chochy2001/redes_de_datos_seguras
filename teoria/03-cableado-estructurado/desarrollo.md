@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 3: Cableado estructurado
+# Desarrollo - Complementaria 3: Cableado estructurado
 
 Fecha:  
 Equipo de cómputo:  

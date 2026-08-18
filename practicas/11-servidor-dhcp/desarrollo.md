@@ -1,4 +1,4 @@
-# Desarrollo — Práctica 11: Servidor DHCP
+# Desarrollo - Práctica 11: Servidor DHCP
 
 Fecha:  
 Equipo de cómputo:  

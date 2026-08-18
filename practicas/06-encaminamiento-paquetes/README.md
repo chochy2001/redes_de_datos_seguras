@@ -1,8 +1,8 @@
-# Práctica 6 — Encaminamiento y análisis de paquetes
+# Práctica 6 - Encaminamiento y análisis de paquetes
 
-**Laboratorio** · Capa 3 OSI · Semana 7–8 (28 sep–9 oct 2026)
+**Laboratorio** · Capa 3 OSI · Semana 7-8 (28 sep-9 oct 2026)
 
-Manual MADO-31 pp. 77–93: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
+Manual MADO-31 pp. 77-93: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
 ## Estado
 

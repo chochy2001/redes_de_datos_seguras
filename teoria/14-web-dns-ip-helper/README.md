@@ -1,6 +1,6 @@
-# Complementaria 14 — Web, DNS e IP Helper
+# Complementaria 14 - Web, DNS e IP Helper
 
-**Teoría (obligatoria)** · Capa 7 · Manual MADO-31 pp. 452–468
+**Teoría (obligatoria)** · Capa 7 · Manual MADO-31 pp. 452-468
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

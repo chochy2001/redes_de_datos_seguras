@@ -1,4 +1,4 @@
-# Desarrollo — Práctica 4: Rendimiento de hub y switch
+# Desarrollo - Práctica 4: Rendimiento de hub y switch
 
 Fecha:  
 Equipo de cómputo:  

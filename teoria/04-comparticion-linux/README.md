@@ -1,6 +1,6 @@
-# Complementaria 4 — Compartición de archivos por hub y switch en Linux
+# Complementaria 4 - Compartición de archivos por hub y switch en Linux
 
-**Teoría (obligatoria)** · Capa 2 · Manual MADO-31 pp. 240–259
+**Teoría (obligatoria)** · Capa 2 · Manual MADO-31 pp. 240-259
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

@@ -1,6 +1,6 @@
-# Práctica 0 — Presentación del curso y del Sistema de Gestión de la Calidad
+# Práctica 0 - Presentación del curso y del Sistema de Gestión de la Calidad
 
-**Laboratorio** · Capa — OSI · Semana 1 (17–21 ago 2026)
+**Laboratorio** · Capa - OSI · Semana 1 (17-21 ago 2026)
 
 Ver [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 

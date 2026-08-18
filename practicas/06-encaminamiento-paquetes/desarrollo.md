@@ -1,4 +1,4 @@
-# Desarrollo — Práctica 6: Encaminamiento y análisis de paquetes
+# Desarrollo - Práctica 6: Encaminamiento y análisis de paquetes
 
 Fecha:  
 Equipo de cómputo:  

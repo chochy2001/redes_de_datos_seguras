@@ -1,4 +1,4 @@
-# Desarrollo — Práctica 0: Presentación del curso y del Sistema de Gestión de la Calidad
+# Desarrollo - Práctica 0: Presentación del curso y del Sistema de Gestión de la Calidad
 
 Fecha:  
 Equipo de cómputo:  

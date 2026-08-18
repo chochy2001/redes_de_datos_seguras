@@ -1,8 +1,8 @@
-# Práctica 9 — SSH: Secure Shell
+# Práctica 9 - SSH: Secure Shell
 
-**Laboratorio** · Capa 5–6 OSI · Semana 10–11 (19–30 oct 2026)
+**Laboratorio** · Capa 5-6 OSI · Semana 10-11 (19-30 oct 2026)
 
-Manual MADO-31 pp. 139–161: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
+Manual MADO-31 pp. 139-161: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
 ## Estado
 

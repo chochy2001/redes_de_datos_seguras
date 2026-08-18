@@ -1,6 +1,6 @@
 # Exámenes y evaluación
 
-Evaluación individual del laboratorio: semanas **13–15** (9–27 nov 2026).
+Evaluación individual del laboratorio: semanas **13-15** (9-27 nov 2026).
 
 Secciones (GUDO-01):
 

@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 6: EtherChannel y port security
+# Desarrollo - Complementaria 6: EtherChannel y port security
 
 Fecha:  
 Equipo de cómputo:  

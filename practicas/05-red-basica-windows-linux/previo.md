@@ -1,4 +1,4 @@
-# Previo — Práctica 5: Instalación de una red básica en Windows y Linux Debian
+# Previo - Práctica 5: Instalación de una red básica en Windows y Linux Debian
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 

@@ -1,6 +1,6 @@
-# Complementaria 3 — Cableado estructurado
+# Complementaria 3 - Cableado estructurado
 
-**Teoría (obligatoria)** · Capa 1 · Manual MADO-31 pp. 231–239
+**Teoría (obligatoria)** · Capa 1 · Manual MADO-31 pp. 231-239
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 8: HSRP — Hot Standby Router Protocol
+# Desarrollo - Complementaria 8: HSRP - Hot Standby Router Protocol
 
 Fecha:  
 Equipo de cómputo:  

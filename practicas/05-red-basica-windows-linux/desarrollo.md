@@ -1,4 +1,4 @@
-# Desarrollo — Práctica 5: Instalación de una red básica en Windows y Linux Debian
+# Desarrollo - Práctica 5: Instalación de una red básica en Windows y Linux Debian
 
 Fecha:  
 Equipo de cómputo:  

@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 12: Firewall básico
+# Desarrollo - Complementaria 12: Firewall básico
 
 Fecha:  
 Equipo de cómputo:  

@@ -1,8 +1,8 @@
-# Práctica 5 — Instalación de una red básica en Windows y Linux Debian
+# Práctica 5 - Instalación de una red básica en Windows y Linux Debian
 
-**Laboratorio** · Capa 3 OSI · Semana 6–7 (21 sep–2 oct 2026)
+**Laboratorio** · Capa 3 OSI · Semana 6-7 (21 sep-2 oct 2026)
 
-Manual MADO-31 pp. 51–76: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
+Manual MADO-31 pp. 51-76: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
 ## Estado
 

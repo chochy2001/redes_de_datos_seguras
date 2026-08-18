@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 2: Instalación y cambio de módulos en routers
+# Desarrollo - Complementaria 2: Instalación y cambio de módulos en routers
 
 Fecha:  
 Equipo de cómputo:  

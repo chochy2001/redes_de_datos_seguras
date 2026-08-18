@@ -1,4 +1,4 @@
-# Previo — Práctica 1: Construcción de cables UTP
+# Previo - Práctica 1: Construcción de cables UTP
 
 Contestar **antes** de la sesión (manual p. 11).
 

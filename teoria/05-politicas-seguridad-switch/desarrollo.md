@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 5: Políticas de seguridad en las interfaces del switch
+# Desarrollo - Complementaria 5: Políticas de seguridad en las interfaces del switch
 
 Fecha:  
 Equipo de cómputo:  

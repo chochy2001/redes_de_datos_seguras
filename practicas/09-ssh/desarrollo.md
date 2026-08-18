@@ -1,4 +1,4 @@
-# Desarrollo — Práctica 9: SSH: Secure Shell
+# Desarrollo - Práctica 9: SSH: Secure Shell
 
 Fecha:  
 Equipo de cómputo:  

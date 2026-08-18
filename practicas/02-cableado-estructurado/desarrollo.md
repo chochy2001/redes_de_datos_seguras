@@ -1,4 +1,4 @@
-# Desarrollo — Práctica 2: Componentes del cableado estructurado — Norma ANSI/EIA/TIA 568
+# Desarrollo - Práctica 2: Componentes del cableado estructurado - Norma ANSI/EIA/TIA 568
 
 Fecha:  
 Equipo de cómputo:  

@@ -1,4 +1,4 @@
-# Reporte — Práctica XX: Título
+# Reporte - Práctica XX: Título
 
 Pegar al inicio la carátula (`Caratula.docx`) al exportar a PDF.
 

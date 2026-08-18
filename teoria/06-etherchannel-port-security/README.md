@@ -1,6 +1,6 @@
-# Complementaria 6 — EtherChannel y port security
+# Complementaria 6 - EtherChannel y port security
 
-**Teoría (obligatoria)** · Capa 2 · Manual MADO-31 pp. 278–306
+**Teoría (obligatoria)** · Capa 2 · Manual MADO-31 pp. 278-306
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

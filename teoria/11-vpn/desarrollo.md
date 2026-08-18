@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 11: VPN
+# Desarrollo - Complementaria 11: VPN
 
 Fecha:  
 Equipo de cómputo:  

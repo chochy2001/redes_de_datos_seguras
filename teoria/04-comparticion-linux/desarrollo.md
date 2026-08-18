@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 4: Compartición de archivos por hub y switch en Linux
+# Desarrollo - Complementaria 4: Compartición de archivos por hub y switch en Linux
 
 Fecha:  
 Equipo de cómputo:  

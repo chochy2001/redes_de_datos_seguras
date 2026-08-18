@@ -1,8 +1,8 @@
-# Práctica 7 — Configuración básica del router
+# Práctica 7 - Configuración básica del router
 
-**Laboratorio** · Capa 3 OSI · Semana 8–9 (5–16 oct 2026)
+**Laboratorio** · Capa 3 OSI · Semana 8-9 (5-16 oct 2026)
 
-Manual MADO-31 pp. 94–115: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
+Manual MADO-31 pp. 94-115: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
 ## Estado
 

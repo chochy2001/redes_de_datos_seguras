@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 9: Uso de protocolos TCP y UDP
+# Desarrollo - Complementaria 9: Uso de protocolos TCP y UDP
 
 Fecha:  
 Equipo de cómputo:  

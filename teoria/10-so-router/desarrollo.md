@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 10: Sistema operativo de router
+# Desarrollo - Complementaria 10: Sistema operativo de router
 
 Fecha:  
 Equipo de cómputo:  

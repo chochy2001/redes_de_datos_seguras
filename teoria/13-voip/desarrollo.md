@@ -1,4 +1,4 @@
-# Desarrollo — Complementaria 13: Configuración básica de una comunicación de Voz IP
+# Desarrollo - Complementaria 13: Configuración básica de una comunicación de Voz IP
 
 Fecha:  
 Equipo de cómputo:  

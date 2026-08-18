@@ -1,6 +1,6 @@
-# Complementaria 1 — Normatividad
+# Complementaria 1 - Normatividad
 
-**Teoría (obligatoria)** · Estándares y arquitecturas · Manual MADO-31 pp. 200–210
+**Teoría (obligatoria)** · Estándares y arquitecturas · Manual MADO-31 pp. 200-210
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

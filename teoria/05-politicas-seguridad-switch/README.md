@@ -1,6 +1,6 @@
-# Complementaria 5 — Políticas de seguridad en las interfaces del switch
+# Complementaria 5 - Políticas de seguridad en las interfaces del switch
 
-**Teoría (obligatoria)** · Capa 2 · Manual MADO-31 pp. 260–277
+**Teoría (obligatoria)** · Capa 2 · Manual MADO-31 pp. 260-277
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

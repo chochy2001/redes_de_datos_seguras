@@ -1,4 +1,4 @@
-# Previo — Práctica 10: Funciones de la capa de presentación
+# Previo - Práctica 10: Funciones de la capa de presentación
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 

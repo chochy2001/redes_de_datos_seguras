@@ -1,4 +1,4 @@
-# Previo — Complementaria 2: Instalación y cambio de módulos en routers
+# Previo - Complementaria 2: Instalación y cambio de módulos en routers
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 
