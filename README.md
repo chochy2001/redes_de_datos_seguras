@@ -13,17 +13,21 @@ Repo: https://github.com/chochy2001/redes_de_datos_seguras
 ## Carpetas
 
 ```
-datos.md        equipo y profesora
-documentos/     pdfs oficiales
-plantillas/     carátula
-practicas/      lab (sesión 0 y prácticas 1 a 11)
-teoria/         complementarias de teoría
+README.md              este archivo
+AGENTS.md              reglas para agentes
+docs/como-funciona.md  cómo está armado el repo
+.grok/rules/           reglas que carga Grok
+datos.md               equipo y profesora
+documentos/            pdfs oficiales
+plantillas/            carátula
+practicas/             lab (sesión 0 y prácticas 1 a 11)
+teoria/                complementarias de teoría
 tareas/
 proyectos/
 examenes/
 notas/
 recursos/
-entregas/       pdf final
+entregas/              pdf final
 ```
 
 En cada práctica: previo.md, luego desarrollo.md, evidencias y configs, al final reporte/.
