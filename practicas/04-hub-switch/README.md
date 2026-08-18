@@ -4,31 +4,20 @@
 
 Manual MADO-31 pp. 29 a 50: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
-## Estado
-
-- [ ] Previo
-- [ ] Sesión de laboratorio
-- [ ] Evidencias
-- [ ] Reporte con carátula
 
 ## Objetivo
 
 Comparar el rendimiento de un hub y un switch.
 
-## Cómo trabajar aquí
+Aún nos falta el previo, lo de la sesión, las evidencias y el reporte con carátula.
 
-| Carpeta / archivo | Para qué |
-| --- | --- |
-| `previo.md` | Cuestionario previo (antes de la sesión) |
-| `desarrollo.md` | Notas, comandos y observaciones de la sesión |
-| `evidencias/` | Fotos, capturas, `.pcap`, topologías |
-| `configs/` | Configuraciones (Cisco IOS, Linux, Windows) |
-| `reporte/` | PDF final con carátula |
+Escribimos el previo en previo.md y lo de clase en desarrollo.md. Las fotos van a evidencias/. El PDF final a reporte/.
+
 
 Carátula: [plantillas/Caratula.docx](../../plantillas/Caratula.docx)
 
 Nombre del PDF:
 
 ```
-LabRDSGrupoXXPractica04NombreProf2027-1.pdf
+LabRDSGrupoXXPractica04MariaEugeniaBautistaGonzalez2027-1.pdf
 ```

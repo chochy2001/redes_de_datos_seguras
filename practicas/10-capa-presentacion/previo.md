@@ -1,6 +1,6 @@
 # Previo: Práctica 10: Funciones de la capa de presentación
 
-Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
+Hay que traer esto resuelto a clase. Copiamos la pregunta del manual y contestamos abajo.
 
 ## Preguntas
 

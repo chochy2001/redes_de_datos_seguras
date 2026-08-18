@@ -1,7 +1,7 @@
 # Desarrollo: Práctica 6: Encaminamiento y análisis de paquetes
 
 Profesora: M. TECD. María Eugenia Bautista González
-Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines
+Integrantes: Jorge Salgado Miranda, Michelle Paola González Martínez
 Fecha:  
 Equipo de cómputo:
 

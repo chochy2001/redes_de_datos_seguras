@@ -1,12 +1,8 @@
-# Cómo funciona este repo
+# Cómo está armado el repo
 
-Guía para personas y para agentes. Las reglas que hay que obedecer están en [AGENTS.md](../AGENTS.md).
+Si vas a editar, primero [AGENTS.md](../AGENTS.md).
 
-## Propósito
-
-Aquí van previos, desarrollos, evidencias, reportes, tareas y proyectos del laboratorio Redes de Datos Seguras (FI UNAM, 2027-1).
-
-No es un servicio web. No hay tests automatizados. Lo que tiene que cuadrar es: carpetas, nombres de entrega, carátula, español y que los enlaces existan.
+Aquí juntamos previos, lo de clase, evidencias y los PDFs que se entregan. Es el lab de Redes de Datos Seguras (FI UNAM, 2027-1). No hay servidor ni tests. Lo que no puede fallar es el nombre del archivo, la carátula y que los links existan.
 
 ## Quién trabaja aquí
 
@@ -14,7 +10,7 @@ Ver [datos.md](../datos.md).
 
 | Campo | Valor |
 | --- | --- |
-| Integrantes | Jorge Salgado Miranda, Michelle Paola Gonzalez Martines |
+| Integrantes | Jorge Salgado Miranda, Michelle Paola González Martínez |
 | Profesora | M. TECD. María Eugenia Bautista González |
 | Sala | Q208 |
 | Semestre | 2027-1 |

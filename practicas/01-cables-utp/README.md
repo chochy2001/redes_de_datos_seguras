@@ -2,13 +2,11 @@
 
 **Capa 1 del modelo OSI**. Semana 2 (24 al 28 ago 2026). Manual MADO-31 pp. 3 a 11
 
-Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
+Manual: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 
-## Objetivo
+Hay que armar un cable directo y uno cruzado (T568-A y T568-B).
 
-Construir cables de conexión **directa** y **cruzada** según ANSI/EIA/TIA **T568-A** y **T568-B**.
-
-## Material que debe llevar el alumno
+## Qué llevamos
 
 - 10 conectores RJ-45 categoría 5e o superior
 - 4 metros de cable UTP categoría 5e o superior
@@ -34,7 +32,7 @@ La construcción es **individual**.
 - **Directa:** T568-B en ambos extremos.
 - **Cruzada:** T568-A en un extremo y T568-B en el otro.
 
-## Checklist de construcción
+## Pasos (para no perdernos)
 
 1. Cortar 2 m de UTP.
 2. Retirar 3 cm de forro en un extremo.
@@ -46,18 +44,14 @@ La construcción es **individual**.
 8. Repetir el otro extremo.
 9. Probar con el tester. Si falla un par, rehacer.
 
-## Cómo trabajar aquí
+Aún nos falta el previo, lo de la sesión, las evidencias y el reporte con carátula.
 
-| Archivo | Uso |
-| --- | --- |
-| [previo.md](previo.md) | Cuestionario previo (11 preguntas) |
-| [desarrollo.md](desarrollo.md) | Notas de la sesión |
-| `evidencias/` | Fotos del cable y del tester |
-| `reporte/` | PDF final con carátula |
+Escribimos el previo en previo.md y lo de clase en desarrollo.md. Las fotos van a evidencias/. El PDF final a reporte/.
 
-## Cuestionario previo
 
-Contestar en [previo.md](previo.md) **antes** de la sesión (manual p. 11).
+## Previo
+
+Las 11 preguntas están en [previo.md](previo.md). Hay que llevarlas hechas (manual p. 11).
 
 ## Cuestionario de la práctica
 
@@ -73,5 +67,5 @@ Manual pp. 8 a 9:
 3. Guardar el PDF en `reporte/` (y una copia en `entregas/`) con el nombre:
 
 ```
-LabRDSGrupoXXPractica01NombreProf2027-1.pdf
+LabRDSGrupoXXPractica01MariaEugeniaBautistaGonzalez2027-1.pdf
 ```

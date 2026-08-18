@@ -4,19 +4,8 @@
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 
-## Estado
 
-- [ ] Previo / investigación
-- [ ] Desarrollo
-- [ ] Evidencias
-- [ ] Entrega
+Todavía está pendiente la investigación, el desarrollo, las capturas y la entrega.
 
-## Cómo trabajar aquí
+previo.md, desarrollo.md, evidencias/, configs/ y reporte/.
 
-| Archivo | Para qué |
-| --- | --- |
-| `previo.md` | Investigación previa |
-| `desarrollo.md` | Ejercicios del manual |
-| `evidencias/` | Capturas y topologías (Packet Tracer, etc.) |
-| `configs/` | Configuraciones |
-| `reporte/` | Entrega final |

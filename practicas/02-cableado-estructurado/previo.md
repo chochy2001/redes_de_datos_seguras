@@ -1,6 +1,6 @@
 # Previo: Práctica 2: Componentes del cableado estructurado: Norma ANSI/EIA/TIA 568
 
-Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
+Hay que traer esto resuelto a clase. Copiamos la pregunta del manual y contestamos abajo.
 
 ## Preguntas
 

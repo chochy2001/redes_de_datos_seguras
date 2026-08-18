@@ -1,42 +1,41 @@
 # Redes de Datos Seguras
 
-Lab de Redes de Datos Seguras, Facultad de Ingeniería, UNAM.
-Semestre 2027-1. Sala Q208.
+Apuntes y entregas del lab. FI UNAM, 2027-1, sala Q208.
 
-Jorge Salgado Miranda y Michelle Paola Gonzalez Martines.
-Profesora: M. TECD. María Eugenia Bautista González.
-Más datos en [datos.md](datos.md). Falta confirmar si el grupo es 7, 8 o 10.
+Somos Jorge Salgado Miranda y Michelle Paola González Martínez.
+La profesora es la M. TECD. María Eugenia Bautista González.
+Todavía no anotamos si el grupo es el 7, el 8 o el 10. Lo demás está en [datos.md](datos.md).
 
-Portal del lab: http://redyseguridad.fi-b.unam.mx/
+Portal: http://redyseguridad.fi-b.unam.mx/
 Repo: https://github.com/chochy2001/redes_de_datos_seguras
 
-## Carpetas
+## Dónde va cada cosa
 
 ```
-README.md              este archivo
-AGENTS.md              reglas para agentes
-docs/como-funciona.md  cómo está armado el repo
-.grok/rules/           reglas que carga Grok
-datos.md               equipo y profesora
-documentos/            pdfs oficiales
+README.md              esto
+AGENTS.md              reglas para quien edite el repo
+docs/como-funciona.md  mapa un poco más largo
+.grok/rules/           lo que carga Grok
+datos.md               nombres y nomenclatura
+documentos/            pdfs del lab (no los movemos)
 plantillas/            carátula
-practicas/             lab (sesión 0 y prácticas 1 a 11)
-teoria/                complementarias de teoría
+practicas/             sesión 0 y las 11 de sala
+teoria/                las 14 de teoría
 tareas/
 proyectos/
 examenes/
 notas/
 recursos/
-entregas/              pdf final
+entregas/              el pdf que sí se entrega
 ```
 
-En cada práctica: previo.md, luego desarrollo.md, evidencias y configs, al final reporte/.
+En cada práctica primero el previo, en clase el desarrollo, y al final evidencias y reporte.
 
 ## Esta semana
 
-Semana 1 (17 al 21 ago 2026): presentación y SGC. [practicas/00-presentacion](practicas/00-presentacion/README.md)
+Del 17 al 21 de agosto: presentación. [practicas/00-presentacion](practicas/00-presentacion/README.md)
 
-Semana 2 (24 al 28 ago 2026): práctica 1, cables UTP. [practicas/01-cables-utp](practicas/01-cables-utp/README.md)
+Del 24 al 28: práctica 1, cables UTP. [practicas/01-cables-utp](practicas/01-cables-utp/README.md)
 
 ## Laboratorio
 
@@ -55,24 +54,19 @@ Semana 2 (24 al 28 ago 2026): práctica 1, cables UTP. [practicas/01-cables-utp]
 | 10 | Capa de presentación | 11 a 12 | 162 a 172 | [10-capa-presentacion](practicas/10-capa-presentacion/README.md) |
 | 11 | Servidor DHCP | 12 a 13 | 173 a 197 | [11-servidor-dhcp](practicas/11-servidor-dhcp/README.md) |
 
-Lista completa: [practicas/README.md](practicas/README.md)
+Lista: [practicas/README.md](practicas/README.md). Teoría: [teoria/README.md](teoria/README.md).
 
-## Teoría
+## Cómo se llama el PDF
 
-Complementarias obligatorias: [teoria/README.md](teoria/README.md)
-
-## Entregas
-
-Copiar [plantillas/Caratula.docx](plantillas/Caratula.docx) al reporte, armar el PDF y nombrarlo:
+La carátula está en [plantillas/Caratula.docx](plantillas/Caratula.docx). El archivo queda así:
 
 ```
 LabRDSGrupoXXPracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
 ```
 
-XX es el grupo, YY la práctica. Una copia en `entregas/`.
-Control: [documentos/FODO-13_entrega_seguras.pdf](documentos/FODO-13_entrega_seguras.pdf)
+Una copia en `entregas/`. Fechas oficiales: [documentos/FODO-13_entrega_seguras.pdf](documentos/FODO-13_entrega_seguras.pdf).
 
-## Horarios de la profesora
+## Horario de la maestra
 
 | Grupo | Horario | Día | Sala |
 | ---: | --- | --- | --- |
@@ -82,13 +76,7 @@ Control: [documentos/FODO-13_entrega_seguras.pdf](documentos/FODO-13_entrega_seg
 
 ## Del reglamento
 
-Máximo 2 inasistencias (la tercera es baja).
-Llevar la práctica impresa y el material.
-Tolerancia de 10 minutos.
-Revisar el equipo al llegar (FODO-09 si hay falla).
-Máximo 2 personas por equipo.
-No hay reposición en otro grupo.
-Sin comida ni bebida. Cerrar sesión al salir.
+Máximo dos faltas (la tercera es baja). Hay que llegar con la práctica impresa y el material. Diez minutos de tolerancia. Al sentarnos revisamos el equipo; si algo falla, FODO-09. Máximo dos por máquina. No se repone en otro grupo. Sin comida. Al salir, cerrar sesión.
 
 ```bash
 git clone git@github.com:chochy2001/redes_de_datos_seguras.git

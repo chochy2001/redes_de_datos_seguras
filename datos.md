@@ -5,7 +5,7 @@ Se usa en carátulas, previos, desarrollos y nombres de entrega.
 | Campo | Valor |
 | --- | --- |
 | Integrante 1 | Jorge Salgado Miranda |
-| Integrante 2 | Michelle Paola Gonzalez Martines |
+| Integrante 2 | Michelle Paola González Martínez |
 | Profesor(a) | M. TECD. María Eugenia Bautista González |
 | Semestre | 2027-1 |
 | Asignatura | Lab. Redes de Datos Seguras |

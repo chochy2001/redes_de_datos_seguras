@@ -11,7 +11,7 @@ Rama: `main`
 ## Equipo
 
 - Jorge Salgado Miranda
-- Michelle Paola Gonzalez Martines (no cambiar el apellido salvo que el usuario lo pida)
+- Michelle Paola González Martínez
 - Profesora: M. TECD. María Eugenia Bautista González
 - Grupo pendiente: 7, 8 o 10
 
@@ -47,13 +47,15 @@ Español de México, con acentos y ñ: práctica, sesión, configuración, prese
 
 No usar raya larga ni semirraya. En títulos no separar con guion. Rangos: 17 al 21 ago, 11:00 a 13:00, pp. 3 a 11.
 
+En notas y previos escribir como apunte de clase, no como manual corporativo. Evitar muletillas: cabe destacar, es importante mencionar, en este sentido, asimismo, por otro lado, en conclusión. No repetir el mismo párrafo en las 26 prácticas. Variar frases. Primera persona está bien.
+
 ## No son errores (no "corregir")
 
 - Rutas y archivos: `practicas/`, `teoria/`, `00-presentacion`, `Caratula.docx`
 - Códigos: `2027-1`, `T568-A`, `T568-B`, `RJ-45`, `FODO-05`
 - Markdown: `- item`, `- [ ]`, `| --- |`
 - Plurales sin tilde: configuraciones (el singular sí: configuración)
-- El nombre Michelle Paola Gonzalez Martines
+- El nombre Michelle Paola González Martínez (con acentos)
 - Colores de hilo: Blanco-Verde
 
 ## Entrega

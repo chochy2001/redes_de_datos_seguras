@@ -1,6 +1,6 @@
 # Previo: Complementaria 14: Web, DNS e IP Helper
 
-Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
+Hay que traer esto resuelto a clase. Copiamos la pregunta del manual y contestamos abajo.
 
 ## Preguntas
 
