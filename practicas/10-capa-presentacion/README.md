@@ -1,8 +1,8 @@
-# Práctica 10 - Funciones de la capa de presentación
+# Práctica 10: Funciones de la capa de presentación
 
-**Laboratorio** · Capa 6 OSI · Semana 11-12 (26 oct-6 nov 2026)
+**Laboratorio**. Capa 6 OSI. Semana 11 a 12 (26 oct al 6 nov 2026)
 
-Manual MADO-31 pp. 162-172: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
+Manual MADO-31 pp. 162 a 172: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
 ## Estado
 

@@ -1,4 +1,4 @@
-# Previo - Complementaria 8: HSRP - Hot Standby Router Protocol
+# Previo: Complementaria 8: HSRP: Hot Standby Router Protocol
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 

@@ -1,4 +1,4 @@
-# Desarrollo - Complementaria 7: Enrutamiento estático
+# Desarrollo: Complementaria 7: Enrutamiento estático
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

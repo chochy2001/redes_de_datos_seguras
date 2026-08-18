@@ -1,8 +1,8 @@
-# Práctica 2 - Componentes del cableado estructurado - Norma ANSI/EIA/TIA 568
+# Práctica 2: Componentes del cableado estructurado: Norma ANSI/EIA/TIA 568
 
-**Laboratorio** · Capa 1 OSI · Semana 3 (31 ago-4 sep 2026)
+**Laboratorio**. Capa 1 OSI. Semana 3 (31 ago al 4 sep 2026)
 
-Manual MADO-31 pp. 12-19: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
+Manual MADO-31 pp. 12 a 19: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
 ## Estado
 

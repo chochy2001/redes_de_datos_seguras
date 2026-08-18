@@ -1,4 +1,4 @@
-# Reporte - Practica XX: Titulo
+# Reporte de la practica XX
 
 Profesora: M. TECD. María Eugenia Bautista González  
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines  

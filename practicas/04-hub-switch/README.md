@@ -1,8 +1,8 @@
-# Práctica 4 - Rendimiento de hub y switch
+# Práctica 4: Rendimiento de hub y switch
 
-**Laboratorio** · Capa 2 OSI · Semana 5-6 (14-25 sep 2026)
+**Laboratorio**. Capa 2 OSI. Semana 5 a 6 (14 al 25 sep 2026)
 
-Manual MADO-31 pp. 29-50: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
+Manual MADO-31 pp. 29 a 50: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
 ## Estado
 

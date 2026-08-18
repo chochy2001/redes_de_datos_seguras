@@ -1,6 +1,6 @@
-# Complementaria 12 - Firewall básico
+# Complementaria 12: Firewall básico
 
-**Teoría (obligatoria)** · Capa 7 · Manual MADO-31 pp. 409-425
+**Teoría (obligatoria)**. Capa 7. Manual MADO-31 pp. 409 a 425
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

@@ -1,4 +1,4 @@
-# Previo - Complementaria 12: Firewall básico
+# Previo: Complementaria 12: Firewall básico
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 

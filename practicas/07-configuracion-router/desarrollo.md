@@ -1,4 +1,4 @@
-# Desarrollo - Práctica 7: Configuración básica del router
+# Desarrollo: Práctica 7: Configuración básica del router
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

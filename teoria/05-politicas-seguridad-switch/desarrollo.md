@@ -1,4 +1,4 @@
-# Desarrollo - Complementaria 5: Políticas de seguridad en las interfaces del switch
+# Desarrollo: Complementaria 5: Políticas de seguridad en las interfaces del switch
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

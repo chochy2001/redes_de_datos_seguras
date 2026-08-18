@@ -1,4 +1,4 @@
-# Desarrollo - Práctica 5: Instalación de una red básica en Windows y Linux Debian
+# Desarrollo: Práctica 5: Instalación de una red básica en Windows y Linux Debian
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

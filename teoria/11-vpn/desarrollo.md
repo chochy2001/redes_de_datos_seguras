@@ -1,4 +1,4 @@
-# Desarrollo - Complementaria 11: VPN
+# Desarrollo: Complementaria 11: VPN
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

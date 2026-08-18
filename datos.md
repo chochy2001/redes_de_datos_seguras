@@ -19,9 +19,9 @@ Horarios de la profesora (FODO-06):
 
 | Grupo | Horario | Dia |
 | ---: | --- | --- |
-| 7 | 7:00-9:00 | Jueves |
-| 8 | 9:00-11:00 | Jueves |
-| 10 | 17:00-19:00 | Viernes |
+| 7 | 7:00 a 9:00 | Jueves |
+| 8 | 9:00 a 11:00 | Jueves |
+| 10 | 17:00 a 19:00 | Viernes |
 
 Nombre de entrega (cambiar XX y YY):
 

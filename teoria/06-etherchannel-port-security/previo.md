@@ -1,4 +1,4 @@
-# Previo - Complementaria 6: EtherChannel y port security
+# Previo: Complementaria 6: EtherChannel y port security
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 

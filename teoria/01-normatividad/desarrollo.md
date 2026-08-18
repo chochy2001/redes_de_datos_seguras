@@ -1,4 +1,4 @@
-# Desarrollo - Complementaria 1: Normatividad
+# Desarrollo: Complementaria 1: Normatividad
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

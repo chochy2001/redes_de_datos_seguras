@@ -6,7 +6,7 @@ Un proyecto = una carpeta:
 
 ```
 proyectos/
-  01-nombre-corto/
+  01_nombre_corto/
     README.md          objetivo, alcance, integrantes
     docs/              especificación y bitácora
     topologias/        .pkt / .pka

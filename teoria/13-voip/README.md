@@ -1,6 +1,6 @@
-# Complementaria 13 - Configuración básica de una comunicación de Voz IP
+# Complementaria 13: Configuración básica de una comunicación de Voz IP
 
-**Teoría (obligatoria)** · Capa 7 · Manual MADO-31 pp. 426-451
+**Teoría (obligatoria)**. Capa 7. Manual MADO-31 pp. 426 a 451
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

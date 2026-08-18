@@ -1,6 +1,6 @@
-# Complementaria 10 - Sistema operativo de router
+# Complementaria 10: Sistema operativo de router
 
-**Teoría (obligatoria)** · Capa 5 · Manual MADO-31 pp. 377-393
+**Teoría (obligatoria)**. Capa 5. Manual MADO-31 pp. 377 a 393
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

@@ -1,4 +1,4 @@
-# Desarrollo - Práctica 10: Funciones de la capa de presentación
+# Desarrollo: Práctica 10: Funciones de la capa de presentación
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

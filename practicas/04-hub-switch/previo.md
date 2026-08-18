@@ -1,4 +1,4 @@
-# Previo - Práctica 4: Rendimiento de hub y switch
+# Previo: Práctica 4: Rendimiento de hub y switch
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 

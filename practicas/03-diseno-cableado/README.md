@@ -1,8 +1,8 @@
-# Práctica 3 - Diseño / identificación de un sistema de cableado estructurado
+# Práctica 3: Diseño / identificación de un sistema de cableado estructurado
 
-**Laboratorio** · Capa 1 OSI · Semana 4 (7-11 sep 2026)
+**Laboratorio**. Capa 1 OSI. Semana 4 (7 al 11 sep 2026)
 
-Manual MADO-31 pp. 20-28: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
+Manual MADO-31 pp. 20 a 28: [PDF](../../documentos/MADO-31_LabRedesDatosSeguras.pdf).
 
 ## Estado
 

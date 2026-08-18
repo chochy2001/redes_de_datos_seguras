@@ -1,4 +1,4 @@
-# Previo - Complementaria 1: Normatividad
+# Previo: Complementaria 1: Normatividad
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 

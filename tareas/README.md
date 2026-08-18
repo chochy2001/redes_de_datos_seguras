@@ -2,11 +2,11 @@
 
 Tareas sueltas que no son una práctica numerada del manual.
 
-Cuando el profesor asigne una, crear una carpeta `YYYY-MM-DD-tema/` (no usar `pendientes/` para el trabajo final):
+Cuando asignen una, crear una carpeta con fecha y tema (no dejarla en `pendientes/`):
 
 ```
 tareas/
-  2026-08-25-investigacion-rfc/
+  20260825_investigacion_rfc/
     README.md          enunciado
     desarrollo.md
     evidencias/

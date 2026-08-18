@@ -1,6 +1,6 @@
-# Práctica 1 - Construcción de cables UTP
+# Práctica 1: Construcción de cables UTP
 
-**Capa 1 del modelo OSI** · Semana 2 (24-28 ago 2026) · Manual MADO-31 pp. 3-11
+**Capa 1 del modelo OSI**. Semana 2 (24 al 28 ago 2026). Manual MADO-31 pp. 3 a 11
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 
@@ -61,7 +61,7 @@ Contestar en [previo.md](previo.md) **antes** de la sesión (manual p. 11).
 
 ## Cuestionario de la práctica
 
-Manual pp. 8-9:
+Manual pp. 8 a 9:
 
 1. Diferencia al **emplear** (no al construir) T568-A vs T568-B en cableado estructurado.
 2. Configuración de cable cruzado en Gigabit Ethernet.

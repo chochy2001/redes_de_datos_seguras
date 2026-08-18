@@ -1,6 +1,6 @@
-# Complementaria 7 - Enrutamiento estático
+# Complementaria 7: Enrutamiento estático
 
-**Teoría (obligatoria)** · Capa 3 · Manual MADO-31 pp. 307-326
+**Teoría (obligatoria)**. Capa 3. Manual MADO-31 pp. 307 a 326
 
 Fuente: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 

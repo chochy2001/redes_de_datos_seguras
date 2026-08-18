@@ -1,4 +1,4 @@
-# Desarrollo - Práctica 4: Rendimiento de hub y switch
+# Desarrollo: Práctica 4: Rendimiento de hub y switch
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

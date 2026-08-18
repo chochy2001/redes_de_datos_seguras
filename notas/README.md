@@ -1,3 +1,3 @@
 # Notas de clase
 
-Apuntes propios. Una nota por sesión en `sesiones/`, por ejemplo `2026-08-18-presentacion.md`.
+Apuntes de clase. Una nota por sesion en `sesiones/`, por ejemplo `20260818_presentacion.md`.

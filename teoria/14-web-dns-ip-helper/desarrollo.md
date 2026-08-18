@@ -1,4 +1,4 @@
-# Desarrollo - Complementaria 14: Web, DNS e IP Helper
+# Desarrollo: Complementaria 14: Web, DNS e IP Helper
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

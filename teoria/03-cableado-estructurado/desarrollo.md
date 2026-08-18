@@ -1,4 +1,4 @@
-# Desarrollo - Complementaria 3: Cableado estructurado
+# Desarrollo: Complementaria 3: Cableado estructurado
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

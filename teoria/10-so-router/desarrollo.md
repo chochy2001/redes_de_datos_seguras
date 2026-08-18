@@ -1,4 +1,4 @@
-# Desarrollo - Complementaria 10: Sistema operativo de router
+# Desarrollo: Complementaria 10: Sistema operativo de router
 
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines

@@ -1,4 +1,4 @@
-# Previo - Práctica 11: Servidor DHCP
+# Previo: Práctica 11: Servidor DHCP
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 

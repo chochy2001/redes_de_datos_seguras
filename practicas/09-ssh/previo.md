@@ -1,4 +1,4 @@
-# Previo - Práctica 9: SSH: Secure Shell
+# Previo: Práctica 9: SSH: Secure Shell
 
 Contestar **antes** de la sesión. Copiar las preguntas del manual y responder debajo de cada una.
 
