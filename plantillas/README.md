@@ -6,6 +6,6 @@
 | [Caratula.doc](Caratula.doc) | Original del laboratorio |
 | [reporte-practica.md](reporte-practica.md) | Esqueleto del desarrollo del reporte |
 
-Campos de la carátula: profesor, asignatura, grupo, no. de práctica, integrantes, equipo de cómputo, semestre `2027-1`, fecha de entrega, observaciones.
+La caratula de trabajo (`Caratula.docx`) ya trae profesora, asignatura, integrantes y semestre. Falta grupo, numero de practica, equipo de computo y fecha.
 
-Datos del alumno: [../datos.md](../datos.md)
+Datos del equipo: [../datos.md](../datos.md)

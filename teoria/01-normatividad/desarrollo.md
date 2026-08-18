@@ -1,8 +1,9 @@
 # Desarrollo - Complementaria 1: Normatividad
 
+Profesora: M. TECD. María Eugenia Bautista González
+Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines
 Fecha:  
-Equipo de cómputo:  
-Compañero(a):
+Equipo de computo:
 
 ## Lo realizado
 

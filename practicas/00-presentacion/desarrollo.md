@@ -1,8 +1,9 @@
 # Desarrollo - Práctica 0: Presentación del curso y del Sistema de Gestión de la Calidad
 
+Profesora: M. TECD. María Eugenia Bautista González
+Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines
 Fecha:  
-Equipo de cómputo:  
-Compañero(a):
+Equipo de computo:
 
 ## Lo realizado
 

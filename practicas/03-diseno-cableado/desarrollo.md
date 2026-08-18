@@ -1,8 +1,9 @@
 # Desarrollo - Práctica 3: Diseño / identificación de un sistema de cableado estructurado
 
+Profesora: M. TECD. María Eugenia Bautista González
+Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines
 Fecha:  
-Equipo de cómputo:  
-Compañero(a):
+Equipo de computo:
 
 ## Lo realizado
 

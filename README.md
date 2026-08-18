@@ -7,7 +7,9 @@ Semestre **2027-1** · Sala **Q208**
 Portal: [redyseguridad.fi-b.unam.mx](http://redyseguridad.fi-b.unam.mx/)  
 Remoto: [chochy2001/redes_de_datos_seguras](https://github.com/chochy2001/redes_de_datos_seguras)
 
-Llena primero [datos.md](datos.md) (grupo, profesor, nombre). Eso fija la nomenclatura de las entregas.
+Equipo: **Jorge Salgado Miranda** y **Michelle Paola Gonzalez Martines**.  
+Profesora: **M. TECD. María Eugenia Bautista González**.  
+Datos y nomenclatura de entrega: [datos.md](datos.md). El grupo (7, 8 o 10) sigue pendiente.
 
 ## Cómo está organizado
 

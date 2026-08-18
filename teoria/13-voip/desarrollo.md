@@ -1,8 +1,9 @@
 # Desarrollo - Complementaria 13: Configuración básica de una comunicación de Voz IP
 
+Profesora: M. TECD. María Eugenia Bautista González
+Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines
 Fecha:  
-Equipo de cómputo:  
-Compañero(a):
+Equipo de computo:
 
 ## Lo realizado
 
