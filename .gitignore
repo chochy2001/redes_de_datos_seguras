@@ -22,3 +22,26 @@ _*.txt
 ~$*
 *.ldb
 *.lock
+
+# Packet Tracer (backups automáticos)
+*.pkt.bak
+*.pka.bak
+*.pkz.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# VMs e ISOs (demasiado grandes para GitHub)
+*.iso
+*.img
+*.ova
+*.ovf
+*.vmdk
+*.vdi
+*.qcow2
+*.vhd
+*.vhdx
+
+# Logs
+*.log

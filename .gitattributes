@@ -5,3 +5,11 @@
 *.pdf binary
 *.doc binary
 *.docx binary
+*.pkt binary
+*.pka binary
+*.pkz binary
+*.pcap binary
+*.pcapng binary
+*.png binary
+*.jpg binary
+*.jpeg binary

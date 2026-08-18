@@ -1,21 +1,11 @@
 # Plantillas
 
-La carátula es **obligatoria** en cada reporte de práctica (GUDO-01 §3.1.4).
-
 | Archivo | Uso |
 | --- | --- |
-| [Caratula.docx](Caratula.docx) | Plantilla para llenar (Word actual) |
+| [Caratula.docx](Caratula.docx) | Carátula oficial (Word actual). Obligatoria en cada reporte. |
 | [Caratula.doc](Caratula.doc) | Original del laboratorio |
+| [reporte-practica.md](reporte-practica.md) | Esqueleto del desarrollo del reporte |
 
-Campos:
+Campos de la carátula: profesor, asignatura, grupo, no. de práctica, integrantes, equipo de cómputo, semestre `2027-1`, fecha de entrega, observaciones.
 
-- Profesor(a)
-- Asignatura: Lab. Redes de Datos Seguras
-- Grupo
-- No. de práctica(s)
-- Integrante(s)
-- No. de equipo de cómputo
-- Semestre: 2027-1
-- Fecha de entrega
-- Observaciones
-- Calificación (la llena el profesorado)
+Datos del alumno: [../datos.md](../datos.md)

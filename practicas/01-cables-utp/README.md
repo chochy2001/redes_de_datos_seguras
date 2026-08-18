@@ -46,21 +46,18 @@ La construcción es **individual**.
 8. Repetir el otro extremo.
 9. Probar con el tester. Si falla un par, rehacer.
 
+## Cómo trabajar aquí
+
+| Archivo | Uso |
+| --- | --- |
+| [previo.md](previo.md) | Cuestionario previo (11 preguntas) |
+| [desarrollo.md](desarrollo.md) | Notas de la sesión |
+| `evidencias/` | Fotos del cable y del tester |
+| `reporte/` | PDF final con carátula |
+
 ## Cuestionario previo
 
-Contestar **antes** de la sesión (manual p. 11):
-
-1. ¿Por qué los alambres del UTP están trenzados?
-2. ¿Qué es UTP? Características, ventajas y desventajas.
-3. ¿Qué es STP? Características, ventajas y desventajas.
-4. Categorías de UTP. Detalle de Cat 5e y Cat 6.
-5. ¿Qué categoría conviene en instalaciones nuevas y por qué?
-6. Características del coaxial y de la fibra óptica.
-7. Si se transmite voz por UTP, ¿qué pines se usan y cómo se arma?
-8. Configuración de un cable cruzado en Gigabit Ethernet.
-9. ¿Qué significan ANSI/EIA/TIA T568-A y T568-B?
-10. Importancia de la capa 1 del modelo OSI.
-11. Costos de UTP Cat 5e, 6 y 6a.
+Contestar en [previo.md](previo.md) **antes** de la sesión (manual p. 11).
 
 ## Cuestionario de la práctica
 
@@ -73,7 +70,7 @@ Manual pp. 8–9:
 
 1. Llenar [plantillas/Caratula.docx](../../plantillas/Caratula.docx).
 2. Incluir desarrollo, pruebas con tester, cuestionarios y conclusiones.
-3. Guardar el PDF en esta carpeta con el nombre:
+3. Guardar el PDF en `reporte/` (y una copia en `entregas/`) con el nombre:
 
 ```
 LabRDSGrupoXXPractica01NombreProf2027-1.pdf

@@ -1,49 +1,98 @@
 # Redes de Datos Seguras
 
-Repositorio del laboratorio **Redes de Datos Seguras**  
+Workspace del laboratorio **Redes de Datos Seguras**  
 Facultad de Ingeniería, UNAM · Laboratorio de Redes y Seguridad  
 Semestre **2027-1** · Sala **Q208**
 
-Portal del laboratorio: [redyseguridad.fi-b.unam.mx](http://redyseguridad.fi-b.unam.mx/)
+Portal: [redyseguridad.fi-b.unam.mx](http://redyseguridad.fi-b.unam.mx/)  
+Remoto: [chochy2001/redes_de_datos_seguras](https://github.com/chochy2001/redes_de_datos_seguras)
 
-## Estructura
+Llena primero [datos.md](datos.md) (grupo, profesor, nombre). Eso fija la nomenclatura de las entregas.
+
+## Cómo está organizado
 
 ```
-documentos/     Documentos oficiales (calendario, horarios, manual, reglamentos)
-plantillas/     Carátula obligatoria para cada reporte
-practicas/      Trabajo por práctica (previos, notas, evidencias)
+datos.md            Datos del alumno (grupo, profesor)
+documentos/         Material oficial (no editar)
+plantillas/         Carátula y plantillas de reporte
+practicas/          11 prácticas de laboratorio + sesión 0
+teoria/             14 prácticas complementarias de teoría
+tareas/             Tareas sueltas que asigne el profesor
+proyectos/          Proyectos del curso
+examenes/           Evaluación individual (semanas 13–15)
+notas/              Apuntes de clase
+recursos/           Packet Tracer, capturas, enlaces
+entregas/           PDF final listo para subir
+```
+
+Cada práctica (lab o teoría) usa el mismo flujo:
+
+```
+previo.md       →  desarrollo.md  →  evidencias/ + configs/  →  reporte/
 ```
 
 ## Semana actual
 
-| Semana | Fechas | Actividad |
-| ---: | --- | --- |
-| 1 | 17–21 ago 2026 | Presentación del curso y del Sistema de Gestión de la Calidad |
-| 2 | 24–28 ago 2026 | **Práctica 1** — Cables UTP (directa y cruzada) |
+| Semana | Fechas | Actividad | Carpeta |
+| ---: | --- | --- | --- |
+| 1 | 17–21 ago 2026 | Presentación y SGC | [practicas/00-presentacion](practicas/00-presentacion/README.md) |
+| 2 | 24–28 ago 2026 | **Práctica 1** — cables UTP | [practicas/01-cables-utp](practicas/01-cables-utp/README.md) |
 
-Material para la práctica 1: [practicas/01-cables-utp](practicas/01-cables-utp/README.md).
+## Laboratorio
 
-## Prácticas
+| No. | Práctica | Semana | Manual | Carpeta |
+| ---: | --- | ---: | ---: | --- |
+| 0 | Presentación y SGC | 1 | — | [00-presentacion](practicas/00-presentacion/README.md) |
+| 1 | Cables UTP (directa y cruzada) | 2 | 3–11 | [01-cables-utp](practicas/01-cables-utp/README.md) |
+| 2 | Cableado estructurado ANSI/EIA/TIA 568 | 3 | 12–19 | [02-cableado-estructurado](practicas/02-cableado-estructurado/README.md) |
+| 3 | Diseño de cableado estructurado | 4 | 20–28 | [03-diseno-cableado](practicas/03-diseno-cableado/README.md) |
+| 4 | Rendimiento de hub y switch | 5–6 | 29–50 | [04-hub-switch](practicas/04-hub-switch/README.md) |
+| 5 | Red básica Windows y Linux Debian | 6–7 | 51–76 | [05-red-basica-windows-linux](practicas/05-red-basica-windows-linux/README.md) |
+| 6 | Encaminamiento y análisis de paquetes | 7–8 | 77–93 | [06-encaminamiento-paquetes](practicas/06-encaminamiento-paquetes/README.md) |
+| 7 | Configuración básica del router | 8–9 | 94–115 | [07-configuracion-router](practicas/07-configuracion-router/README.md) |
+| 8 | TCP y UDP | 9–10 | 116–138 | [08-tcp-udp](practicas/08-tcp-udp/README.md) |
+| 9 | SSH | 10–11 | 139–161 | [09-ssh](practicas/09-ssh/README.md) |
+| 10 | Capa de presentación | 11–12 | 162–172 | [10-capa-presentacion](practicas/10-capa-presentacion/README.md) |
+| 11 | Servidor DHCP | 12–13 | 173–197 | [11-servidor-dhcp](practicas/11-servidor-dhcp/README.md) |
 
-| No. | Práctica | Semana | Manual |
-| ---: | --- | ---: | ---: |
-| 0 | Presentación del curso y del SGC | 1 | — |
-| 1 | Construcción de cables UTP (directa y cruzada) | 2 | pp. 3–11 |
-| 2 | Componentes del cableado estructurado — ANSI/EIA/TIA 568 | 3 | pp. 12–19 |
-| 3 | Diseño / identificación de un sistema de cableado estructurado | 4 | pp. 20–28 |
-| 4 | Rendimiento de hub y switch | 5–6 | pp. 29–50 |
-| 5 | Red básica en Windows y Linux Debian | 6–7 | pp. 51–76 |
-| 6 | Encaminamiento y análisis de paquetes | 7–8 | pp. 77–93 |
-| 7 | Configuración básica del router | 8–9 | pp. 94–115 |
-| 8 | Protocolos de transporte: TCP y UDP | 9–10 | pp. 116–138 |
-| 9 | SSH: Secure Shell | 10–11 | pp. 139–161 |
-| 10 | Funciones de la capa de presentación | 11–12 | pp. 162–172 |
-| 11 | Servidor DHCP | 12–13 | pp. 173–197 |
+Índice: [practicas/README.md](practicas/README.md)
 
-Evaluación individual: semanas 13–15 (9–27 nov 2026).  
-Calendario completo: [documentos/FODO-05_calendario_seguras.pdf](documentos/FODO-05_calendario_seguras.pdf).
+## Teoría (complementarias obligatorias)
 
-## Horarios (2027-1)
+| No. | Práctica | Capa | Manual | Carpeta |
+| ---: | --- | --- | ---: | --- |
+| 1 | Normatividad | Estándares | 200–210 | [01-normatividad](teoria/01-normatividad/README.md) |
+| 2 | Módulos en routers | 1 | 211–230 | [02-modulos-routers](teoria/02-modulos-routers/README.md) |
+| 3 | Cableado estructurado | 1 | 231–239 | [03-cableado-estructurado](teoria/03-cableado-estructurado/README.md) |
+| 4 | Compartición de archivos en Linux | 2 | 240–259 | [04-comparticion-linux](teoria/04-comparticion-linux/README.md) |
+| 5 | Políticas de seguridad en el switch | 2 | 260–277 | [05-politicas-seguridad-switch](teoria/05-politicas-seguridad-switch/README.md) |
+| 6 | EtherChannel y port security | 2 | 278–306 | [06-etherchannel-port-security](teoria/06-etherchannel-port-security/README.md) |
+| 7 | Enrutamiento estático | 3 | 307–326 | [07-enrutamiento-estatico](teoria/07-enrutamiento-estatico/README.md) |
+| 8 | HSRP | 3 | 327–350 | [08-hsrp](teoria/08-hsrp/README.md) |
+| 9 | TCP y UDP | 4 | 351–376 | [09-tcp-udp](teoria/09-tcp-udp/README.md) |
+| 10 | Sistema operativo de router | 5 | 377–393 | [10-so-router](teoria/10-so-router/README.md) |
+| 11 | VPN | 6 | 394–408 | [11-vpn](teoria/11-vpn/README.md) |
+| 12 | Firewall básico | 7 | 409–425 | [12-firewall](teoria/12-firewall/README.md) |
+| 13 | Voz IP | 7 | 426–451 | [13-voip](teoria/13-voip/README.md) |
+| 14 | Web, DNS e IP Helper | 7 | 452–468 | [14-web-dns-ip-helper](teoria/14-web-dns-ip-helper/README.md) |
+
+Índice: [teoria/README.md](teoria/README.md)
+
+## Entregas
+
+1. Copiar [plantillas/Caratula.docx](plantillas/Caratula.docx) al `reporte/` de la práctica.
+2. Armar el PDF (carátula + desarrollo).
+3. Nombrarlo así y copiarlo también a `entregas/`:
+
+```
+LabRDSGrupoXXPracticaYYNombreProf2027-1.pdf
+```
+
+`XX` = grupo (01, 05, 11) · `YY` = práctica · profesor **sin espacios** · semestre `2027-1`.
+
+Control oficial: [documentos/FODO-13_entrega_seguras.pdf](documentos/FODO-13_entrega_seguras.pdf).
+
+## Horarios
 
 | Grupo | Persona docente | Horario | Día | Sala |
 | ---: | --- | --- | --- | --- |
@@ -57,51 +106,15 @@ Calendario completo: [documentos/FODO-05_calendario_seguras.pdf](documentos/FODO
 | 10 | M. TECD. María Eugenia Bautista González | 17:00–19:00 | Vie | Q208 |
 | 11 | Ing. Patricia Nallely Gómez Flores | 11:00–13:00 | Lun | Q208 |
 
-Fuente: [documentos/FODO-06_horarios_seguras.pdf](documentos/FODO-06_horarios_seguras.pdf).
+## Reglas rápidas
 
-## Reportes
-
-Cada reporte debe incluir la [carátula](plantillas/Caratula.docx) y el desarrollo de la práctica.
-
-- Plantilla Word: [plantillas/Caratula.docx](plantillas/Caratula.docx)
-- Original del laboratorio: [plantillas/Caratula.doc](plantillas/Caratula.doc)
-- Entregas programadas: [documentos/FODO-13_entrega_seguras.pdf](documentos/FODO-13_entrega_seguras.pdf)
-
-Nomenclatura de archivo (laboratorio RDS):
-
-```
-LabRDSGrupoXXPracticaYYNombreProf2027-1.pdf
-```
-
-`XX` = grupo (01, 05, 11) · `YY` = práctica · nombre del profesor **sin espacios**.
-
-## Reglas que no conviene olvidar
-
-- Máximo **2 inasistencias**; la tercera es baja del laboratorio.
-- Llevar la **práctica impresa** y el material; si no, no se permanece en sala.
-- Tolerancia de entrada: **10 minutos**.
-- Revisar el equipo al llegar; reportar fallas de inmediato (FODO-09).
+- Máximo **2 inasistencias** (la tercera es baja).
+- Llevar la **práctica impresa** y el material.
+- Tolerancia: **10 minutos**.
+- Revisar el equipo al llegar (FODO-09 si hay falla).
 - Máximo **2 personas** por equipo.
-- No hay reposición de prácticas en otro grupo u horario.
-- No comida ni bebida en el laboratorio.
-- Cerrar sesión y dejar el lugar limpio al terminar.
-
-Reglamentos: [REDO-01](documentos/REDO-01_reglamento.pdf) · [Talleres FI](documentos/ReglamentoTL.pdf).
-
-## Documentos oficiales
-
-| Archivo | Descripción |
-| --- | --- |
-| [FODO-05_calendario_seguras.pdf](documentos/FODO-05_calendario_seguras.pdf) | Calendarización de prácticas |
-| [FODO-06_horarios_seguras.pdf](documentos/FODO-06_horarios_seguras.pdf) | Profesorado y horarios |
-| [FODO-13_entrega_seguras.pdf](documentos/FODO-13_entrega_seguras.pdf) | Control de entrega de prácticas |
-| [GUDO-01_guia_imparticion.pdf](documentos/GUDO-01_guia_imparticion.pdf) | Guía de impartición |
-| [GUDO-01_guia_imparticionv.pdf](documentos/GUDO-01_guia_imparticionv.pdf) | Guía de impartición (modalidad en línea) |
-| [MADO-31_LabRedesDatosSeguras.pdf](documentos/MADO-31_LabRedesDatosSeguras.pdf) | Manual de prácticas (479 pp.) |
-| [PLDO-01_plan_calidad.pdf](documentos/PLDO-01_plan_calidad.pdf) | Plan de calidad |
-| [Politica_calidad.pdf](documentos/Politica_calidad.pdf) | Política de calidad |
-| [REDO-01_reglamento.pdf](documentos/REDO-01_reglamento.pdf) | Reglamento del laboratorio |
-| [ReglamentoTL.pdf](documentos/ReglamentoTL.pdf) | Reglamento de laboratorios y talleres FI |
+- No hay reposición en otro grupo.
+- No comida ni bebida. Cerrar sesión al salir.
 
 ## Clonar
 
@@ -109,5 +122,3 @@ Reglamentos: [REDO-01](documentos/REDO-01_reglamento.pdf) · [Talleres FI](docum
 git clone git@github.com:chochy2001/redes_de_datos_seguras.git
 cd redes_de_datos_seguras
 ```
-
-Remoto: [chochy2001/redes_de_datos_seguras](https://github.com/chochy2001/redes_de_datos_seguras)
