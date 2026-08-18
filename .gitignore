@@ -16,4 +16,9 @@ $RECYCLE.BIN/
 *.tmp
 *.bak
 *.old
+_*.txt
+
+# Word / Office
 ~$*
+*.ldb
+*.lock
