@@ -3,7 +3,7 @@
 Profesora: M. TECD. María Eugenia Bautista González
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines
 Fecha:  
-Equipo de computo:
+Equipo de cómputo:
 
 ## Lo realizado
 

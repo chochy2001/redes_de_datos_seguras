@@ -1,6 +1,6 @@
 # Datos del equipo
 
-Se usa en caratulas, previos, desarrollos y nombres de entrega.
+Se usa en carátulas, previos, desarrollos y nombres de entrega.
 
 | Campo | Valor |
 | --- | --- |
@@ -11,13 +11,13 @@ Se usa en caratulas, previos, desarrollos y nombres de entrega.
 | Asignatura | Lab. Redes de Datos Seguras |
 | Sala | Q208 |
 | Grupo | (pendiente: ella imparte 7, 8 y 10) |
-| Numero de cuenta (Jorge) | |
-| Numero de cuenta (Michelle) | |
-| Equipo de computo habitual | |
+| Número de cuenta (Jorge) | |
+| Número de cuenta (Michelle) | |
+| Equipo de cómputo habitual | |
 
 Horarios de la profesora (FODO-06):
 
-| Grupo | Horario | Dia |
+| Grupo | Horario | Día |
 | ---: | --- | --- |
 | 7 | 7:00 a 9:00 | Jueves |
 | 8 | 9:00 a 11:00 | Jueves |

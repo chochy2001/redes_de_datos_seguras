@@ -1,10 +1,10 @@
-# Reporte de la practica XX
+# Reporte de la práctica XX
 
 Profesora: M. TECD. María Eugenia Bautista González  
 Integrantes: Jorge Salgado Miranda, Michelle Paola Gonzalez Martines  
 Semestre: 2027-1
 
-Pegar al inicio la caratula (`Caratula.docx`) al exportar a PDF.
+Pegar al inicio la carátula (`Caratula.docx`) al exportar a PDF.
 
 ## 1. Objetivo
 
