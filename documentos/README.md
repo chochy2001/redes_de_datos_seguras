@@ -4,6 +4,7 @@ No editar. Copias de control del laboratorio (FODO / GUDO / MADO / PLDO / REDO).
 
 | Archivo | Qué es |
 | --- | --- |
+| [temario_1598.pdf](temario_1598.pdf) | Programa de estudio (clave 1598) |
 | [FODO-05_calendario_seguras.pdf](FODO-05_calendario_seguras.pdf) | Calendarización de prácticas |
 | [FODO-06_horarios_seguras.pdf](FODO-06_horarios_seguras.pdf) | Profesorado y horarios |
 | [FODO-13_entrega_seguras.pdf](FODO-13_entrega_seguras.pdf) | Control de entregas |

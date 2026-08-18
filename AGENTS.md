@@ -1,6 +1,6 @@
 # Instrucciones para agentes
 
-Leer este archivo completo antes de editar. Mapa detallado: [docs/como-funciona.md](docs/como-funciona.md). Datos del equipo: [datos.md](datos.md).
+Leer este archivo completo antes de editar. Mapa: [docs/como-funciona.md](docs/como-funciona.md). Equipo: [datos.md](datos.md). Temario: [docs/temario.md](docs/temario.md) y [documentos/temario_1598.pdf](documentos/temario_1598.pdf).
 
 ## Qué es
 
@@ -21,9 +21,10 @@ Rama: `main`
 README.md           vista del curso
 AGENTS.md           este archivo (obligatorio para agentes)
 docs/como-funciona.md
+docs/temario.md     resumen del programa 1598
 .grok/rules/        reglas que Grok carga solo
 datos.md
-documentos/         PDFs oficiales. No editar.
+documentos/         PDFs oficiales (incluye temario_1598.pdf). No editar.
 plantillas/         Caratula.docx (ya tiene equipo) y reporte
 practicas/          sesión 0 y prácticas 1 a 11
 teoria/             complementarias 1 a 14

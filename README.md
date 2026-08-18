@@ -15,6 +15,7 @@ Repo: https://github.com/chochy2001/redes_de_datos_seguras
 README.md              esto
 AGENTS.md              reglas para quien edite el repo
 docs/como-funciona.md  mapa un poco más largo
+docs/temario.md        unidades del programa 1598
 .grok/rules/           lo que carga Grok
 datos.md               nombres y nomenclatura
 documentos/            pdfs del lab (no los movemos)
@@ -36,6 +37,10 @@ En cada práctica primero el previo, en clase el desarrollo, y al final evidenci
 Del 17 al 21 de agosto: presentación. [practicas/00-presentacion](practicas/00-presentacion/README.md)
 
 Del 24 al 28: práctica 1, cables UTP. [practicas/01-cables-utp](practicas/01-cables-utp/README.md)
+
+## Temario
+
+Programa de estudio, clave 1598: [documentos/temario_1598.pdf](documentos/temario_1598.pdf). Resumen en [docs/temario.md](docs/temario.md).
 
 ## Laboratorio
 

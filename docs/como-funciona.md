@@ -34,7 +34,9 @@ LabRDSGrupoXXPracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
 
 ## Laboratorio
 
-Índice: [practicas/README.md](../practicas/README.md)
+Temario del curso (clave 1598): [temario.md](temario.md) y el PDF [documentos/temario_1598.pdf](../documentos/temario_1598.pdf).
+
+Índice del lab: [practicas/README.md](../practicas/README.md)
 Manual: [documentos/MADO-31_LabRedesDatosSeguras.pdf](../documentos/MADO-31_LabRedesDatosSeguras.pdf)
 
 | No. | Carpeta | Manual |
@@ -63,6 +65,7 @@ Catorce complementarias obligatorias (manual pp. 198 a 468), misma forma de carp
 | Carpeta | Para qué |
 | --- | --- |
 | [README.md](../README.md) | Vista general del curso |
+| [temario.md](temario.md) | Unidades del programa 1598 |
 | [AGENTS.md](../AGENTS.md) | Reglas que debe seguir un agente |
 | [.grok/rules/](../.grok/rules/00-leer.md) | Carga automática en Grok |
 | [documentos/](../documentos/README.md) | PDFs oficiales. No modificar. |
