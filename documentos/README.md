@@ -15,3 +15,4 @@ No editar. Copias de control del laboratorio (FODO / GUDO / MADO / PLDO / REDO).
 | [Politica_calidad.pdf](Politica_calidad.pdf) | Política de calidad |
 | [REDO-01_reglamento.pdf](REDO-01_reglamento.pdf) | Reglamento del laboratorio |
 | [ReglamentoTL.pdf](ReglamentoTL.pdf) | Reglamento de talleres FI |
+| [ComunicadoToleranciaPracticas.pdf](ComunicadoToleranciaPracticas.pdf) | Comunicado 26 ago 2021 (sigue en el portal): 10 min de tolerancia; el reporte se entrega al terminar la sesión |
