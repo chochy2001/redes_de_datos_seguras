@@ -13,7 +13,9 @@ Rama: `main`
 - Jorge Salgado Miranda
 - Michelle Paola González Martínez
 - Profesora: M. TECD. María Eugenia Bautista González
-- Grupo pendiente: 7, 8 o 10
+- Laboratorio: grupo 10 (viernes 17:00 a 19:00, Q208)
+- Teoría de Redes de Datos Seguras: grupo 2 (no usar el 2 en la carátula del lab)
+- Número de cuenta (Jorge): 317182480
 
 ## Cómo está armado
 
@@ -62,7 +64,7 @@ En notas y previos escribir como apunte de clase, no como manual corporativo. Ev
 ## Entrega
 
 ```
-LabRDSGrupoXXPracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
+LabRDSGrupo10PracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
 ```
 
 Copia en `practicas/.../reporte/` y otra en `entregas/`.

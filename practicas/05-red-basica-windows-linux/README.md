@@ -19,5 +19,5 @@ Carátula: [plantillas/Caratula.docx](../../plantillas/Caratula.docx)
 Nombre del PDF:
 
 ```
-LabRDSGrupoXXPractica05MariaEugeniaBautistaGonzalez2027-1.pdf
+LabRDSGrupo10Practica05MariaEugeniaBautistaGonzalez2027-1.pdf
 ```

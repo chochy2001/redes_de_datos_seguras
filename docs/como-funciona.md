@@ -14,7 +14,9 @@ Ver [datos.md](../datos.md).
 | Profesora | M. TECD. María Eugenia Bautista González |
 | Sala | Q208 |
 | Semestre | 2027-1 |
-| Grupo | Pendiente (7, 8 o 10) |
+| Grupo laboratorio | 10 (viernes 17:00 a 19:00, Q208) |
+| Grupo teoría | 2 |
+| Cuenta (Jorge) | 317182480 |
 
 ## Flujo de una práctica
 
@@ -29,7 +31,7 @@ Ver [datos.md](../datos.md).
 Nombre oficial:
 
 ```
-LabRDSGrupoXXPracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
+LabRDSGrupo10PracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
 ```
 
 ## Laboratorio

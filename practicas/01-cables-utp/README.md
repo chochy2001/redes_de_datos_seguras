@@ -67,5 +67,5 @@ Manual pp. 8 a 9:
 3. Guardar el PDF en `reporte/` (y una copia en `entregas/`) con el nombre:
 
 ```
-LabRDSGrupoXXPractica01MariaEugeniaBautistaGonzalez2027-1.pdf
+LabRDSGrupo10Practica01MariaEugeniaBautistaGonzalez2027-1.pdf
 ```

@@ -4,7 +4,7 @@ Apuntes y entregas del lab. FI UNAM, 2027-1, sala Q208.
 
 Somos Jorge Salgado Miranda y Michelle Paola González Martínez.
 La profesora es la M. TECD. María Eugenia Bautista González.
-Todavía no anotamos si el grupo es el 7, el 8 o el 10. Lo demás está en [datos.md](datos.md).
+El laboratorio es el **grupo 10** (viernes 17:00 a 19:00, Q208). La teoría de Redes de Datos Seguras es el **grupo 2**. Lo demás está en [datos.md](datos.md).
 
 Portal: http://redyseguridad.fi-b.unam.mx/
 Repo: https://github.com/chochy2001/redes_de_datos_seguras
@@ -66,7 +66,7 @@ Lista: [practicas/README.md](practicas/README.md). Teoría: [teoria/README.md](t
 La carátula está en [plantillas/Caratula.docx](plantillas/Caratula.docx). El archivo queda así:
 
 ```
-LabRDSGrupoXXPracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
+LabRDSGrupo10PracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
 ```
 
 Una copia en `entregas/`. Fechas oficiales: [documentos/FODO-13_entrega_seguras.pdf](documentos/FODO-13_entrega_seguras.pdf).
@@ -77,7 +77,7 @@ Una copia en `entregas/`. Fechas oficiales: [documentos/FODO-13_entrega_seguras.
 | ---: | --- | --- | --- |
 | 7 | 7:00 a 9:00 | Jue | Q208 |
 | 8 | 9:00 a 11:00 | Jue | Q208 |
-| 10 | 17:00 a 19:00 | Vie | Q208 |
+| 10 (el nuestro) | 17:00 a 19:00 | Vie | Q208 |
 
 ## Del reglamento
 
