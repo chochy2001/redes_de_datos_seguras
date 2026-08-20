@@ -3,8 +3,8 @@
 Apuntes y entregas del lab. FI UNAM, 2027-1, sala Q208.
 
 Somos Jorge Salgado Miranda y Michelle Paola González Martínez.
-La profesora es la M. TECD. María Eugenia Bautista González.
-El laboratorio es el **grupo 10** (viernes 17:00 a 19:00, Q208). La teoría de Redes de Datos Seguras es el **grupo 2**. Lo demás está en [datos.md](datos.md).
+La profesora del lab y de la teoría es la M. TECD. María Eugenia Bautista González.
+El laboratorio es el **grupo 10** (viernes 17:00 a 19:00, Q208). La teoría es el **grupo 2**. Requisitos distintos: [docs/requisitos.md](docs/requisitos.md). Lo demás está en [datos.md](datos.md).
 
 Portal: http://redyseguridad.fi-b.unam.mx/
 Repo: https://github.com/chochy2001/redes_de_datos_seguras

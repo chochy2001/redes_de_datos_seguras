@@ -6,9 +6,9 @@ Se usa en carátulas, previos, desarrollos y nombres de entrega.
 | --- | --- |
 | Integrante 1 | Jorge Salgado Miranda |
 | Integrante 2 | Michelle Paola González Martínez |
-| Profesor(a) | M. TECD. María Eugenia Bautista González |
+| Profesora (lab y teoría) | M. TECD. María Eugenia Bautista González |
 | Semestre | 2027-1 |
-| Asignatura | Lab. Redes de Datos Seguras (clave 1598) |
+| Asignatura | Redes de Datos Seguras (clave 1598): lab grupo 10 y teoría grupo 2 |
 | Sala | Q208 |
 | Grupo (laboratorio) | 10 |
 | Grupo (teoría de Redes de Datos Seguras) | 2 |

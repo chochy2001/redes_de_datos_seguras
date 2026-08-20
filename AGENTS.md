@@ -4,7 +4,7 @@ Leer este archivo completo antes de editar. Mapa: [docs/como-funciona.md](docs/c
 
 ## Qué es
 
-Repo de clase, no un producto de software. Laboratorio Redes de Datos Seguras, Facultad de Ingeniería, UNAM, semestre 2027-1, sala Q208.
+Repo de clase, no un producto de software. Redes de Datos Seguras, Facultad de Ingeniería, UNAM, semestre 2027-1. Lab (grupo 10, Q208) y teoría (grupo 2), misma profesora. Requisitos distintos: [docs/requisitos.md](docs/requisitos.md).
 Remoto: `git@github.com:chochy2001/redes_de_datos_seguras.git`
 Rama: `main`
 
@@ -12,9 +12,9 @@ Rama: `main`
 
 - Jorge Salgado Miranda
 - Michelle Paola González Martínez
-- Profesora: M. TECD. María Eugenia Bautista González
+- Profesora (lab y teoría): M. TECD. María Eugenia Bautista González
 - Laboratorio: grupo 10 (viernes 17:00 a 19:00, Q208)
-- Teoría de Redes de Datos Seguras: grupo 2 (no usar el 2 en la carátula del lab)
+- Teoría: grupo 2 (no usar el 2 en la carátula del lab; el grupo 2 del FODO-06 es otro lab, de la Dra. Cintia Quezada Reyes)
 - Número de cuenta (Jorge): 317182480
 
 ## Cómo está armado
@@ -24,6 +24,7 @@ README.md           vista del curso
 AGENTS.md           este archivo (obligatorio para agentes)
 docs/como-funciona.md
 docs/temario.md     resumen del programa 1598
+docs/requisitos.md  lab (grupo 10) vs teoría (grupo 2)
 .grok/rules/        reglas que Grok carga solo
 datos.md
 documentos/         PDFs oficiales (incluye temario_1598.pdf). No editar.

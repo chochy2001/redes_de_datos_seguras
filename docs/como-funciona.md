@@ -2,7 +2,7 @@
 
 Si vas a editar, primero [AGENTS.md](../AGENTS.md).
 
-Aquí juntamos previos, lo de clase, evidencias y los PDFs que se entregan. Es el lab de Redes de Datos Seguras (FI UNAM, 2027-1). No hay servidor ni tests. Lo que no puede fallar es el nombre del archivo, la carátula y que los links existan.
+Aquí juntamos previos, lo de clase, evidencias y los PDFs que se entregan. Lab (grupo 10) y teoría (grupo 2) de Redes de Datos Seguras, misma profesora, requisitos distintos: [requisitos.md](requisitos.md). Lo que no puede fallar en el lab es el nombre del archivo, la carátula y que los links existan.
 
 ## Quién trabaja aquí
 
@@ -68,6 +68,7 @@ Catorce complementarias obligatorias (manual pp. 198 a 468), misma forma de carp
 | --- | --- |
 | [README.md](../README.md) | Vista general del curso |
 | [temario.md](temario.md) | Unidades del programa 1598 |
+| [requisitos.md](requisitos.md) | Lab grupo 10 vs teoría grupo 2 |
 | [AGENTS.md](../AGENTS.md) | Reglas que debe seguir un agente |
 | [.grok/rules/](../.grok/rules/00-leer.md) | Carga automática en Grok |
 | [documentos/](../documentos/README.md) | PDFs oficiales. No modificar. |
