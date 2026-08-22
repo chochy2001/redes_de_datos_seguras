@@ -73,7 +73,7 @@ Resumen que no se puede romper:
 - Previo: se estudia en `previo.md`; se **contesta en sala** en Google Forms, **17:00 a 17:15**. A las 17:15 se cierra.
 - Entrada: 17:00 a 17:10 libres; **17:11 ya nadie entra**.
 - Una práctica **impresa** por equipo, carátula oficial (sin rediseñar), material completo, credencial de cada quien. Sin material completo no se entrega y no se recupera. No se repite ni con justificante ni con otro profesor.
-- Firmar **dos** reglamentos (el de ella y el del lab) o no nos quedamos.
+- Páginas 2027-1: [docs/sala-lab.md](docs/sala-lab.md) (lab, REDO-01, MADO-31, SGC). Firmar REDO-01 y el reglamento de talleres o no nos quedamos.
 - Revisar el equipo asignado al sentarnos. Prohibido hacer algo ajeno a la práctica. Asistencia 100 %. Sin apodos.
 - Pareja: un practicante y un escribano, se rotan. Conclusiones en pareja: fallos, desafíos y qué se aprendió. Nunca "se cumplieron los objetivos de forma satisfactoria".
 - Fuentes: mínimo 3, APA, sin Wikipedia, sin IA.

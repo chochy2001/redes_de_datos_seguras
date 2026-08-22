@@ -2,6 +2,15 @@
 
 No editar. Copias de control del laboratorio (FODO / GUDO / MADO / PLDO / REDO).
 
+Páginas del semestre 2027-1 (las que se van a usar):
+
+| Qué | URL |
+| --- | --- |
+| Laboratorio | https://redyseguridad.fi-b.unam.mx/Lab/index.php |
+| Reglamento REDO-01 (se firma) | https://redyseguridad.fi-b.unam.mx/Lab/sgc/REDO-01_reglamento.pdf |
+| Manual MADO-31 | https://redyseguridad.fi-b.unam.mx/Lab/manuales/MADO-31_LabRedesDatosSeguras.pdf |
+| SGC / certificación | https://redyseguridad.fi-b.unam.mx/Lab/sgc.php |
+
 | Archivo | Qué es |
 | --- | --- |
 | [temario_1598.pdf](temario_1598.pdf) | Programa de estudio (clave 1598) |

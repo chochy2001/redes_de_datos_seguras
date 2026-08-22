@@ -6,6 +6,17 @@ No acepta apodos ni sobrenombres. Nombres completos, con acentos.
 
 Fuente: lo que dijo en clase. Si choca con un PDF del SGC, gana lo que ella pidió en sala.
 
+## Páginas del semestre 2027-1
+
+Estas son las que se van a usar. Revisadas el 22 ago 2026 (HTTP 200).
+
+| Qué | URL | Copia local |
+| --- | --- | --- |
+| Página del laboratorio de redes y seguridad | https://redyseguridad.fi-b.unam.mx/Lab/index.php | |
+| Reglamento del laboratorio (REDO-01). **Este se firma.** | https://redyseguridad.fi-b.unam.mx/Lab/sgc/REDO-01_reglamento.pdf | [documentos/REDO-01_reglamento.pdf](../documentos/REDO-01_reglamento.pdf) |
+| Manual de prácticas (MADO-31) | https://redyseguridad.fi-b.unam.mx/Lab/manuales/MADO-31_LabRedesDatosSeguras.pdf | [documentos/MADO-31_LabRedesDatosSeguras.pdf](../documentos/MADO-31_LabRedesDatosSeguras.pdf) |
+| Certificación / Sistema de Gestión de Calidad | https://redyseguridad.fi-b.unam.mx/Lab/sgc.php | |
+
 ## Evaluación
 
 | Rubro | % | Qué califica |
@@ -47,14 +58,18 @@ Si a las 17:05 se llega sin imprimir, igual se pone sobre la mesa material, prá
 
 Si el material no está completo: no se entrega esa práctica y se ve la siguiente clase. La práctica **no se recupera**.
 
-## Reglamento (dos firmas)
+## Reglamento (hay que firmarlo)
 
-Hay que firmar **los dos**:
+Sin firmar, no nos podemos quedar en la clase. Van **dos**:
 
-1. el de la profesora
-2. el del laboratorio
+1. **Reglamento del laboratorio de Redes y Seguridad (REDO-01)**  
+   https://redyseguridad.fi-b.unam.mx/Lab/sgc/REDO-01_reglamento.pdf  
+   Copia: [documentos/REDO-01_reglamento.pdf](../documentos/REDO-01_reglamento.pdf)
+2. **Reglamento general de uso de laboratorios y talleres de la FI** (el otro que pide ella / el del laboratorio de la Facultad)  
+   En el SGC: https://redyseguridad.fi-b.unam.mx/Lab/sgc.php (liga *Reglamento General de uso de talleres y laboratorios*)  
+   Copia: [documentos/ReglamentoTL.pdf](../documentos/ReglamentoTL.pdf)
 
-Sin firmar, no nos podemos quedar en la clase.
+La aceptación en sala es el FODO-25 (GUDO-01). Jorge y Michelle firman con nombre completo, sin apodos.
 
 ## Equipo de cómputo
 

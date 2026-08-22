@@ -6,7 +6,8 @@ Somos Jorge Salgado Miranda y Michelle Paola González Martínez.
 La profesora del lab y de la teoría es la M. TECD. María Eugenia Bautista González.
 El laboratorio es el **grupo 10** (viernes 17:00 a 19:00, Q208). La teoría es el **grupo 2**. Requisitos distintos: [docs/requisitos.md](docs/requisitos.md). Lo demás está en [datos.md](datos.md).
 
-Portal: http://redyseguridad.fi-b.unam.mx/
+Portal del lab: https://redyseguridad.fi-b.unam.mx/Lab/index.php  
+Páginas del semestre: [docs/sala-lab.md](docs/sala-lab.md).
 Repo: https://github.com/chochy2001/redes_de_datos_seguras
 
 ## Dónde va cada cosa

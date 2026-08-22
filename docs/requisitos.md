@@ -15,6 +15,6 @@ Misma clave **1598**, misma profesora (M. TECD. María Eugenia Bautista Gonzále
 | Reposición | No, ni con justificante ni con otro profesor | |
 | Entregas del lab | En pareja (practicante y escribano, se rotan). Conclusiones con fallos y lo aprendido. Mínimo 3 fuentes APA, sin Wikipedia ni IA. Se escanea ya calificada y se sube a Google. Encuesta al final de cada práctica. | Las 14 complementarias son obligatorias para teoría |
 
-Programa: [temario.md](temario.md). Lo que ella pidió en sala: [sala-lab.md](sala-lab.md). Reglamento del lab: [REDO-01](../documentos/REDO-01_reglamento.pdf). Hay que firmar el de ella y el del laboratorio.
+Programa: [temario.md](temario.md). Sala y páginas 2027-1: [sala-lab.md](sala-lab.md). Hay que firmar el REDO-01 y el reglamento de talleres.
 
 Ejemplo de material del lab (práctica 1): 10 conectores RJ-45 cat. 5e o superior y 4 m de UTP cat. 5e o superior, más flexómetro. El manual pide construir los cables de forma individual; la entrega y la carátula van en pareja. El resto de prácticas pide otra cosa; se anota en cada carpeta.
