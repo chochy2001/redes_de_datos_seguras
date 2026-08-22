@@ -7,13 +7,14 @@ Misma clave **1598**, misma profesora (M. TECD. María Eugenia Bautista Gonzále
 | Dónde | Sala Q208, viernes 17:00 a 19:00 (FODO-06) | Clase de teoría. No es el grupo 2 del FODO-06 (ese lab lo imparte la Dra. Cintia Quezada Reyes). |
 | Manual | MADO-31, prácticas 1 a 11 (pp. 3 a 197) | MADO-31, 14 complementarias **obligatorias** (pp. 198 a 468) |
 | Carpetas | `practicas/` | `teoria/` |
-| Carátula / PDF | `LabRDSGrupo10PracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf` | Aún no hay nomenclatura oficial distinta; no se usa el nombre del lab con grupo 10 |
-| Faltas | Máximo dos; la tercera es baja (REDO-01 art. 3) | El reglamento REDO-01 es del **laboratorio** |
-| Entrada | Práctica **impresa** y el material de esa sesión; si no, se sale (art. 4). Diez minutos de tolerancia (comunicado 26 ago 2021). | Lo que pida la profesora en esa clase |
-| Equipo | Máximo dos por máquina. Al sentarse, revisar el equipo (FODO-09 si falla). | Packet Tracer: cuenta en Skills for All (anexo p. 469) |
-| Reposición | No se repone en otro grupo ni horario (art. 14) | |
-| Entregas del lab | El reporte de la sesión al terminar (comunicado). FODO-13: el lab programa 3 reportes evaluados por semestre | Las 14 complementarias son obligatorias para teoría |
+| Carátula / PDF | Carátula oficial. Google: `Practica 01-SalgadoyGonzalez.pdf` | Aún no hay nomenclatura oficial distinta; no se usa el nombre del lab con grupo 10 |
+| Evaluación | Prácticas 60 %, previo 10 %, examen 30 % (mínimo 6, obligatorio) | |
+| Faltas | Asistencia 100 % con esta profesora. No se repite la práctica ni con justificante. | El reglamento REDO-01 es del **laboratorio** |
+| Entrada | 17:00 a 17:10 libres; 17:11 ya nadie. Una práctica impresa por equipo, carátula, material y credenciales. Forms del previo 17:00 a 17:15. | Lo que pida la profesora en esa clase |
+| Equipo | Máximo dos por máquina. PC asignada; **no se cambia**. Revisar que esté entero (FODO-09 si falla). | Packet Tracer: cuenta en Skills for All (anexo p. 469) |
+| Reposición | No, ni con justificante ni con otro profesor | |
+| Entregas del lab | En pareja (practicante y escribano, se rotan). Conclusiones con fallos y lo aprendido. Mínimo 3 fuentes APA, sin Wikipedia ni IA. Se escanea ya calificada y se sube a Google. Encuesta al final de cada práctica. | Las 14 complementarias son obligatorias para teoría |
 
-Programa: [temario.md](temario.md). Reglamento: [REDO-01](../documentos/REDO-01_reglamento.pdf). Comunicado: [ComunicadoToleranciaPracticas.pdf](../documentos/ComunicadoToleranciaPracticas.pdf).
+Programa: [temario.md](temario.md). Lo que ella pidió en sala: [sala-lab.md](sala-lab.md). Reglamento del lab: [REDO-01](../documentos/REDO-01_reglamento.pdf). Hay que firmar el de ella y el del laboratorio.
 
-Ejemplo de material del lab (práctica 1, individual): 10 conectores RJ-45 cat. 5e o superior y 4 m de UTP cat. 5e o superior, más flexómetro. El resto de prácticas pide otra cosa; se anota en cada carpeta.
+Ejemplo de material del lab (práctica 1): 10 conectores RJ-45 cat. 5e o superior y 4 m de UTP cat. 5e o superior, más flexómetro. El manual pide construir los cables de forma individual; la entrega y la carátula van en pareja. El resto de prácticas pide otra cosa; se anota en cada carpeta.

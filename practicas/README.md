@@ -2,7 +2,9 @@
 
 Once prácticas de sala (MADO-31 pp. 3 a 197) más la sesión 0 de presentación.
 
-Cada carpeta sigue el mismo flujo: `previo.md` luego sesión (`desarrollo.md`, `evidencias/`, `configs/`) luego `reporte/`.
+Cada carpeta sigue el mismo flujo: `previo.md` (se estudia en casa, se contesta en Forms 17:00 a 17:15) luego sesión (`desarrollo.md`, `evidencias/`, `configs/`) luego `reporte/`.
+
+Sala, evaluación y nombre de PDF: [../docs/sala-lab.md](../docs/sala-lab.md). Google: `Practica 01-SalgadoyGonzalez.pdf`.
 
 | No. | Carpeta | Semana | Fechas | Manual |
 | ---: | --- | ---: | --- | ---: |

@@ -21,18 +21,19 @@ Ver [datos.md](../datos.md).
 ## Flujo de una práctica
 
 1. Abrir la carpeta de esa práctica en `practicas/` o `teoria/`.
-2. Contestar `previo.md` antes de la sesión.
-3. Anotar la sesión en `desarrollo.md` (ya trae profesora e integrantes).
-4. Meter fotos, capturas o `.pcap` en `evidencias/`.
-5. Meter configs de Cisco, Linux o Windows en `configs/`.
-6. Armar el PDF con [plantillas/Caratula.docx](../plantillas/Caratula.docx) y dejarlo en `reporte/`.
-7. Copiar el PDF final a `entregas/` con el nombre oficial.
-
-Nombre oficial:
+2. Estudiar **todas** las preguntas de `previo.md` **antes** de la sesión (guía del Forms). Validar con el MADO-31.
+3. En sala, 17:00 a 17:15, contestar el previo en Google Forms. A las 17:15 se cierra.
+4. Anotar la sesión en `desarrollo.md` (quién fue practicante y quién escribano).
+5. Meter fotos, capturas o `.pcap` en `evidencias/`.
+6. Meter configs de Cisco, Linux o Windows en `configs/`.
+7. Imprimir **esa** práctica (una por equipo) con la [carátula oficial](../plantillas/Caratula.docx). No rediseñarla.
+8. Cuando esté calificada, escanear y subir a Google:
 
 ```
-LabRDSGrupo10PracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
+Practica 01-SalgadoyGonzalez.pdf
 ```
+
+Copia en `entregas/`. Reloj, evaluación y conclusiones: [sala-lab.md](sala-lab.md).
 
 ## Laboratorio
 
@@ -69,6 +70,7 @@ Catorce complementarias obligatorias (manual pp. 198 a 468), misma forma de carp
 | [README.md](../README.md) | Vista general del curso |
 | [temario.md](temario.md) | Unidades del programa 1598 |
 | [requisitos.md](requisitos.md) | Lab grupo 10 vs teoría grupo 2 |
+| [sala-lab.md](sala-lab.md) | Evaluación, Forms, llegada, roles, PDF |
 | [AGENTS.md](../AGENTS.md) | Reglas que debe seguir un agente |
 | [.grok/rules/](../.grok/rules/00-leer.md) | Carga automática en Grok |
 | [documentos/](../documentos/README.md) | PDFs oficiales. No modificar. |

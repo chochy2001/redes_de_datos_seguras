@@ -14,7 +14,7 @@ Hay que armar un cable directo y uno cruzado (T568-A y T568-B).
 
 Equipo del laboratorio: pinzas engarzadoras, de corte y de punta; tester de continuidad UTP.
 
-La construcción es **individual**.
+La construcción de los cables es **individual** (manual p. 5). La **entrega** es en **pareja**: carátula con Jorge y Michelle.
 
 ## Pinouts
 
@@ -44,28 +44,24 @@ La construcción es **individual**.
 8. Repetir el otro extremo.
 9. Probar con el tester. Si falla un par, rehacer.
 
-Aún nos falta el previo, lo de la sesión, las evidencias y el reporte con carátula.
+Previo y cuestionario de la práctica: [previo.md](previo.md) (guía de Forms). Lo de clase: [desarrollo.md](desarrollo.md). Fotos en evidencias/. PDF en reporte/.
 
-Escribimos el previo en previo.md y lo de clase en desarrollo.md. Las fotos van a evidencias/. El PDF final a reporte/.
-
+Se imprime **esta** práctica sola, con la carátula oficial. Fecha de entrega: **28 ago 2026** (viernes de la sesión). Equipo de cómputo: el asignado; no se cambia de lugar.
 
 ## Previo
 
-Las 11 preguntas están en [previo.md](previo.md). Hay que llevarlas hechas (manual p. 11).
+Las 11 preguntas, contestadas, en [previo.md](previo.md). Llevarlas hechas (manual p. 11) y para el Forms.
 
 ## Cuestionario de la práctica
 
-Manual pp. 8 a 9:
-
-1. Diferencia al **emplear** (no al construir) T568-A vs T568-B en cableado estructurado.
-2. Configuración de cable cruzado en Gigabit Ethernet.
+También en [previo.md](previo.md) (manual pp. 8 a 9).
 
 ## Reporte
 
-1. Llenar [plantillas/Caratula.docx](../../plantillas/Caratula.docx).
+1. Usar [plantillas/Caratula.docx](../../plantillas/Caratula.docx) **sin rediseñarla**. Copia llena en `reporte/`.
 2. Incluir desarrollo, pruebas con tester, cuestionarios y conclusiones.
 3. Guardar el PDF en `reporte/` (y una copia en `entregas/`) con el nombre:
 
 ```
-LabRDSGrupo10Practica01MariaEugeniaBautistaGonzalez2027-1.pdf
+Practica 01-SalgadoyGonzalez.pdf
 ```

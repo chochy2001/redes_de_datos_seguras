@@ -30,7 +30,7 @@ recursos/
 entregas/              el pdf que sí se entrega
 ```
 
-En cada práctica primero el previo, en clase el desarrollo, y al final evidencias y reporte.
+Sala: [docs/sala-lab.md](docs/sala-lab.md). Prácticas 60 %, previo 10 % (Forms 17:00 a 17:15), examen 30 % (mínimo 6). Una impresa por equipo. PDF: `Practica 01-SalgadoyGonzalez.pdf`.
 
 ## Esta semana
 
@@ -63,13 +63,13 @@ Lista: [practicas/README.md](practicas/README.md). Teoría: [teoria/README.md](t
 
 ## Cómo se llama el PDF
 
-La carátula está en [plantillas/Caratula.docx](plantillas/Caratula.docx). El archivo queda así:
+La carátula está en [plantillas/Caratula.docx](plantillas/Caratula.docx). El PDF que se sube a Google (ya calificado):
 
 ```
-LabRDSGrupo10PracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
+Practica 01-SalgadoyGonzalez.pdf
 ```
 
-Una copia en `entregas/`. Fechas oficiales: [documentos/FODO-13_entrega_seguras.pdf](documentos/FODO-13_entrega_seguras.pdf).
+Una copia en `entregas/`. Cómo es la sala: [docs/sala-lab.md](docs/sala-lab.md).
 
 ## Horario de la maestra
 

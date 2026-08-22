@@ -25,6 +25,7 @@ AGENTS.md           este archivo (obligatorio para agentes)
 docs/como-funciona.md
 docs/temario.md     resumen del programa 1598
 docs/requisitos.md  lab (grupo 10) vs teoría (grupo 2)
+docs/sala-lab.md    evaluación, Forms, llegada, roles, PDF de Google
 .grok/rules/        reglas que Grok carga solo
 datos.md
 documentos/         PDFs oficiales (incluye temario_1598.pdf). No editar.
@@ -62,13 +63,33 @@ En notas y previos escribir como apunte de clase, no como manual corporativo. Ev
 - El nombre Michelle Paola González Martínez (con acentos)
 - Colores de hilo: Blanco-Verde
 
-## Entrega
+## Laboratorio: sala con la M. TECD. María Eugenia Bautista González
+
+Reglas de clase (lo que ella pidió): [docs/sala-lab.md](docs/sala-lab.md). Leerlas **antes** de armar un previo, un reporte o un PDF.
+
+Resumen que no se puede romper:
+
+- Evaluación: prácticas **60 %** (realización, material, conclusiones, mínimo 3 fuentes APA), previo **10 %**, examen final **30 %** (obligatorio, mínimo 6). Copiar, IA o internet en el examen = anulado.
+- Previo: se estudia en `previo.md`; se **contesta en sala** en Google Forms, **17:00 a 17:15**. A las 17:15 se cierra.
+- Entrada: 17:00 a 17:10 libres; **17:11 ya nadie entra**.
+- Una práctica **impresa** por equipo, carátula oficial (sin rediseñar), material completo, credencial de cada quien. Sin material completo no se entrega y no se recupera. No se repite ni con justificante ni con otro profesor.
+- Firmar **dos** reglamentos (el de ella y el del lab) o no nos quedamos.
+- Revisar el equipo asignado al sentarnos. Prohibido hacer algo ajeno a la práctica. Asistencia 100 %. Sin apodos.
+- Pareja: un practicante y un escribano, se rotan. Conclusiones en pareja: fallos, desafíos y qué se aprendió. Nunca "se cumplieron los objetivos de forma satisfactoria".
+- Fuentes: mínimo 3, APA, sin Wikipedia, sin IA.
+- PDF para Google (escaneado **ya calificado**):
 
 ```
-LabRDSGrupo10PracticaYYMariaEugeniaBautistaGonzalez2027-1.pdf
+Practica 01-SalgadoyGonzalez.pdf
 ```
 
 Copia en `practicas/.../reporte/` y otra en `entregas/`.
+- Encuesta de cada práctica: 5 a 10 min, leerla. Evaluación del servicio: todos, **antes** del examen.
+- Correo: ella revisa de 24 a 36 h.
+
+Carátula: Maestra María Eugenia Bautista González, Laboratorio de Redes de Datos Seguras, grupo **10**, pareja, 2027-1, fecha = el viernes de esa práctica, PC = la asignada.
+
+Antes de dar por cerrado un previo: cada pregunta del manual tiene respuesta, cuadra con el MADO-31, y sirve para pegar en el Forms de 17:00 a 17:15.
 
 ## Antes de cerrar
 
